@@ -1,4 +1,3 @@
-package yallashoot.shoot.yalla.com.yallashoot.newapp.utility;
 
 import android.app.Activity;
 import android.content.Context;
@@ -19,8 +18,6 @@ import java.util.Locale;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
-import yallashoot.shoot.yalla.com.yallashoot.newapp.core.repositoryHelper.SharedPreferencesHelper;
-import yallashoot.shoot.yalla.com.yallashoot.newapp.screens.main.MainActivity;
 
 @Singleton
 public class LanguageHelper {
