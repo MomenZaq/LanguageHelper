@@ -11,6 +11,7 @@ Change your application language for any language and support LTR and RTL
 This class is built with dagger2 and used as a Singleton class.
 
 1- copy the class to your project
+
 2- in Applicatoin class add
 ```java
    @Override
